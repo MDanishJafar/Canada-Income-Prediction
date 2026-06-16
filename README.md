@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wine Classification using Naive Bayes
 
 ## Project Overview
@@ -61,3 +62,25 @@ The Gaussian Naive Bayes model achieved high classification accuracy on the Wine
 ## Conclusion
 
 Naive Bayes is a simple and effective machine learning algorithm for classification tasks. In this project, Gaussian Naive Bayes performed well because the dataset contains continuous numerical features.
+=======
+# Canada Income Prediction
+
+## Project Overview
+This project predicts Canada's per capita income using Linear Regression.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-Learn
+
+## Model
+Linear Regression
+
+## Dataset
+Canada Per Capita Income Dataset
+
+## Results
+The model predicts future income trends based on historical data.
+>>>>>>> c79847b04fe9c6963ecbacbb13f22e018d39469d
